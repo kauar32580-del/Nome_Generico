@@ -35,7 +35,7 @@ public class Questao3 {
         if (pontos >= 80) {
             System.out.println("Excelente escolha!");
         } else if (pontos >= 50) {
-            System.out.println("Boa escolha!");
+            System.out.println("Boa escolha cafajeste!");
         } else if (pontos >= 30) {
             System.out.println("Poderia ser melhor...");
         } else {
