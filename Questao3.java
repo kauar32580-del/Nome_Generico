@@ -27,7 +27,7 @@ public class Questao3 {
         } else if (letra == 'J') {
             pontos = 100;
         } else {
-            System.out.println("Letra fora do intervalo permitido!");
+            System.out.println("Letra fora do bobo permitido!");
             sc.close();
             return;
         }
